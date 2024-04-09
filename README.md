@@ -1,7 +1,7 @@
 # MATH-FIND-MIN
  C# search for the extremum of the function
 
-# Find min - Partial gradient
+# Find min - Derivative (One argument)
 
 https://www.youtube.com/watch?v=FyXkh9Pvxio&list=PLclZn2f4tNVjERjMstjSw5fto4mJ99SMs
 
