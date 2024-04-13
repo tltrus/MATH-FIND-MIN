@@ -16,5 +16,7 @@ Find local minimum by 2 methods:
 - Bisection Method
 - Golden-Section Method
 
+https://youtu.be/DcS9JNsCKhs
+
 ![image](https://github.com/tltrus/MATH-FIND-MIN/assets/77125487/bbc8f6e3-0edd-4f07-899a-46cd079d5e72)
 
