@@ -20,3 +20,12 @@ https://youtu.be/DcS9JNsCKhs
 
 ![image](https://github.com/tltrus/MATH-FIND-MIN/assets/77125487/bbc8f6e3-0edd-4f07-899a-46cd079d5e72)
 
+
+# Find min - PSO 1 (two arguments)
+
+Find local minimum by Particle swarm optimization algorithm.
+Variant 1.
+
+XY plane.
+
+![image](https://github.com/tltrus/MATH-FIND-MIN/assets/77125487/819b28ce-4090-41b7-8ab4-d945066bc577)
