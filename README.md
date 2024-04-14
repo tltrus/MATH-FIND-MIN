@@ -37,6 +37,10 @@ https://youtu.be/HgnT1ukO6GU
 
 Find local minimum by **Simulated Annealing** algorithm.
 
+Based on Roman Shamin solution: https://www.youtube.com/watch?v=R3XawKalzgo
+
+My Youtube: https://youtu.be/YMcld2ADCaE
+
 ![image](https://github.com/tltrus/MATH-FIND-MIN/assets/77125487/b706a253-fd60-4bdc-b145-772d612da220)
 
 
