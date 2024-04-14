@@ -28,4 +28,6 @@ Variant 1.
 
 XY plane.
 
+https://youtu.be/HgnT1ukO6GU
+
 ![image](https://github.com/tltrus/MATH-FIND-MIN/assets/77125487/819b28ce-4090-41b7-8ab4-d945066bc577)
