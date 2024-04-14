@@ -23,7 +23,7 @@ https://youtu.be/DcS9JNsCKhs
 
 # Find min - PSO 1 (two arguments)
 
-Find local minimum by Particle swarm optimization algorithm.
+Find local minimum by **Particle swarm optimization** algorithm (PSO).
 Variant 1.
 
 XY plane.
