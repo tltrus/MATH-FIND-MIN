@@ -33,6 +33,22 @@ https://youtu.be/HgnT1ukO6GU
 ![image](https://github.com/tltrus/MATH-FIND-MIN/assets/77125487/819b28ce-4090-41b7-8ab4-d945066bc577)
 
 
+# Particle swarm optimization (PSO) 2 (two arguments)
+
+Find local minimum by **Particle swarm optimization** algorithm (PSO).
+Variant 2.
+
+Based on article "Artificial Intelligence - Particle Swarm Optimization" of microsoft MSDN Magazine
+https://learn.microsoft.com/en-us/archive/msdn-magazine/2011/august/artificial-intelligence-particle-swarm-optimization
+
+XY plane.
+
+https://youtu.be/HgnT1ukO6GU
+
+![Uploading image.png…]()
+
+
+
 # SimulatedAnnealing (one argument)
 
 Find local minimum by **Simulated Annealing** algorithm.
