@@ -39,14 +39,14 @@ Find local minimum by **Particle swarm optimization** algorithm (PSO).
 Variant 2.
 
 Based on article "Artificial Intelligence - Particle Swarm Optimization" of microsoft MSDN Magazine
+
 https://learn.microsoft.com/en-us/archive/msdn-magazine/2011/august/artificial-intelligence-particle-swarm-optimization
 
 XY plane.
 
 https://youtu.be/HgnT1ukO6GU
 
-![Uploading image.png…]()
-
+![image](https://github.com/tltrus/MATH-FIND-MIN/assets/77125487/cdb5bce9-fa54-4679-ae13-37bd79d727d0)
 
 
 # SimulatedAnnealing (one argument)
