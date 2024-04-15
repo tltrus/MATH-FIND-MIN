@@ -44,7 +44,7 @@ https://learn.microsoft.com/en-us/archive/msdn-magazine/2011/august/artificial-i
 
 XY plane.
 
-https://youtu.be/HgnT1ukO6GU
+[https://youtu.be/HgnT1ukO6GU](https://youtu.be/jAC1RIZ8Gb8)
 
 ![image](https://github.com/tltrus/MATH-FIND-MIN/assets/77125487/cdb5bce9-fa54-4679-ae13-37bd79d727d0)
 
