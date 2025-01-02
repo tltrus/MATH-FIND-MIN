@@ -38,12 +38,12 @@ XY plane.
 Find local minimum by **Particle swarm optimization** algorithm (PSO).
 Variant 2.
 
-- Youtube: Based on article "Artificial Intelligence - Particle Swarm Optimization" of microsoft MSDN Magazine
-- Youtube: https://learn.microsoft.com/en-us/archive/msdn-magazine/2011/august/artificial-intelligence-particle-swarm-optimization
+- Based on article "Artificial Intelligence - Particle Swarm Optimization" of microsoft MSDN Magazine
+- https://learn.microsoft.com/en-us/archive/msdn-magazine/2011/august/artificial-intelligence-particle-swarm-optimization
 
 XY plane.
 
-[https://youtu.be/HgnT1ukO6GU](https://youtu.be/jAC1RIZ8Gb8)
+- Youtube: [https://youtu.be/HgnT1ukO6GU](https://youtu.be/jAC1RIZ8Gb8)
 
 ![image](https://github.com/tltrus/MATH-FIND-MIN/assets/77125487/cdb5bce9-fa54-4679-ae13-37bd79d727d0)
 
