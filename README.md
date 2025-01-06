@@ -18,7 +18,9 @@ C# 4 algorithms:
 - GRADIENT DESCENT METHOD WITH STEP SPLITTING
 - THE STEEPEST DESCENT METHOD
 
-Youtube: 
+Links:
+- Youtube: https://youtu.be/zPDKZUlnBxw
+- Rutube: https://rutube.ru/video/df14072209934065774f1bb9c9617c8b/
 
 ![image](https://github.com/user-attachments/assets/84c1fd47-10aa-4b72-8b64-b5479aa9086d)
 
@@ -72,6 +74,7 @@ Variant 3.
 XY plane.
 
 - Youtube: https://youtu.be/BWPFeXrR_iQ
+- Rutube: https://rutube.ru/video/eea0acee59d3fcdfa5d1f9f2f7bb69c6/
 
 ![image](https://github.com/user-attachments/assets/48b39a3d-fc80-4fbf-83af-48a631fb2b05)
 
