@@ -1,7 +1,7 @@
 # MATH-FIND-MIN
  C# search for the extremum of the function
 
-# Derivative (One argument)
+# Derivative (one argument)
 
 Find local minimum by derivative calculation
 
