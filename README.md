@@ -48,6 +48,21 @@ XY plane.
 ![image](https://github.com/tltrus/MATH-FIND-MIN/assets/77125487/cdb5bce9-fa54-4679-ae13-37bd79d727d0)
 
 
+# Particle swarm optimization (PSO) 3 (two arguments)
+
+Find local minimum by **Particle swarm optimization** algorithm (PSO).
+Variant 3.
+
+- Based on article "Artificial Intelligence - Particle Swarm Optimization" of microsoft MSDN Magazine
+- https://learn.microsoft.com/en-us/archive/msdn-magazine/2011/august/artificial-intelligence-particle-swarm-optimization
+
+XY plane.
+
+- Youtube: https://youtu.be/BWPFeXrR_iQ
+
+![image](https://github.com/user-attachments/assets/48b39a3d-fc80-4fbf-83af-48a631fb2b05)
+
+
 # SimulatedAnnealing (one argument)
 
 Find local minimum by **Simulated Annealing** algorithm.
