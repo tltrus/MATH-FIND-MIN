@@ -20,7 +20,7 @@ C# 4 algorithms:
 
 Youtube: 
 
-![image](https://github.com/user-attachments/assets/5e177ece-fce4-46e9-b3a2-fc9de552e395)
+![image](https://github.com/user-attachments/assets/84c1fd47-10aa-4b72-8b64-b5479aa9086d)
 
 
 # SimpleMethods (one argument)
