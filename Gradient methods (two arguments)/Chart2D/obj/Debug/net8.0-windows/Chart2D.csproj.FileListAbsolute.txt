@@ -1,0 +1,42 @@
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\bin\Debug\net8.0-windows\Chart2D.exe
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\bin\Debug\net8.0-windows\Chart2D.deps.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\bin\Debug\net8.0-windows\Chart2D.runtimeconfig.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\bin\Debug\net8.0-windows\Chart2D.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\bin\Debug\net8.0-windows\Chart2D.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\App.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\Chart2D_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\Chart2D_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\MainWindow.baml
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\Chart2D.g.resources
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\Chart2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\Chart2D.AssemblyInfoInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\Chart2D.AssemblyInfo.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\Chart2D.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\Chart2D.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\refint\Chart2D.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\Chart2D.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\Chart2D.genruntimeconfig.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\For Github Full edition\MATH\ПОИСК МИНИМУМА\Find min - Particle swarm optimization (two arguments)\Find min -PSO v3\Chart2D\obj\Debug\net8.0-windows\ref\Chart2D.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\bin\Debug\net8.0-windows\Chart2D.exe
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\bin\Debug\net8.0-windows\Chart2D.deps.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\bin\Debug\net8.0-windows\Chart2D.runtimeconfig.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\bin\Debug\net8.0-windows\Chart2D.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\bin\Debug\net8.0-windows\Chart2D.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\App.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\Chart2D_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\Chart2D_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\MainWindow.baml
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\Chart2D.g.resources
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\Chart2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\Chart2D.AssemblyInfoInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\Chart2D.AssemblyInfo.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\Chart2D.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\Chart2D.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\refint\Chart2D.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\Chart2D.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\Chart2D.genruntimeconfig.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\ref\Chart2D.dll

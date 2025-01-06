@@ -1,0 +1,25 @@
+﻿<Window x:Class="_Chart2D.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_Chart2D"
+        mc:Ignorable="d"
+        Title="Find function's minimum / Gradient descent methods" Width="1100" Height="786">
+    <Grid Margin="5">
+        <StackPanel>
+            <WrapPanel>
+                <Button Content="Start timer" x:Name="btnStart" VerticalAlignment="Center" Margin="5" Width="100" Click="btnStart_Click"/>
+                <CheckBox Content="Draw func" x:Name="cbDrawFunc" VerticalAlignment="Center" Margin="5" Click="cbDrawFunc_Click"/>
+                <CheckBox Content="Draw contour" x:Name="cbDrawContour" VerticalAlignment="Center" Margin="5" Click="cbDrawContour_Click"/>
+                <Label Content="Contour num:" VerticalAlignment="Center" Margin="5" />
+                <TextBox Text="10" x:Name="tbCnum" VerticalAlignment="Center" Margin="5" Width="30"/>
+                <Button Content="Update contour" x:Name="btnUpdate" VerticalAlignment="Center" Margin="5" Width="100" Click="btnUpdate_Click" />
+            </WrapPanel>
+            <WrapPanel>
+                <local:DrawingVisualClass x:Name="g" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5" Width="700" Background="Black" Height="700"/>
+                <RichTextBox Name="rtbConsole" Margin="5" Height="700" Width="350" Background="Black" Foreground="White" VerticalAlignment="Top"/>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Window>

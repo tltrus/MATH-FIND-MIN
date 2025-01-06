@@ -1,0 +1,113 @@
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\bin\Debug\net8.0-windows\PSO2.exe
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\bin\Debug\net8.0-windows\PSO2.deps.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\bin\Debug\net8.0-windows\PSO2.runtimeconfig.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\bin\Debug\net8.0-windows\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\bin\Debug\net8.0-windows\PSO2.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\App.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\MainWindow.baml
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\PSO2.g.resources
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\PSO2.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\PSO2.AssemblyInfoInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\PSO2.AssemblyInfo.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\PSO2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\refint\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\PSO2.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\PSO2.genruntimeconfig.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Microsoft - Swarm Optimization 2\Chart2D\obj\Debug\net8.0-windows\ref\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\bin\Debug\net8.0-windows\PSO2.exe
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\bin\Debug\net8.0-windows\PSO2.deps.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\bin\Debug\net8.0-windows\PSO2.runtimeconfig.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\bin\Debug\net8.0-windows\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\bin\Debug\net8.0-windows\PSO2.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\App.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\MainWindow.baml
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.g.resources
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.AssemblyInfoInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.AssemblyInfo.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\refint\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.genruntimeconfig.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\2D Charts\ContourChart\Chart2D\obj\Debug\net8.0-windows\ref\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\bin\Debug\net8.0-windows\PSO2.exe
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\bin\Debug\net8.0-windows\PSO2.deps.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\bin\Debug\net8.0-windows\PSO2.runtimeconfig.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\bin\Debug\net8.0-windows\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\bin\Debug\net8.0-windows\PSO2.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\App.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\MainWindow.baml
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.g.resources
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.AssemblyInfoInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.AssemblyInfo.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\refint\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\PSO2.genruntimeconfig.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\3D Charts\Test-ContourChart\Chart2D\obj\Debug\net8.0-windows\ref\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\App.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\refint\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\bin\Debug\net8.0-windows\PSO2.exe
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\bin\Debug\net8.0-windows\PSO2.deps.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\bin\Debug\net8.0-windows\PSO2.runtimeconfig.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\bin\Debug\net8.0-windows\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\bin\Debug\net8.0-windows\PSO2.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\MainWindow.baml
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2.g.resources
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2.AssemblyInfoInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2.AssemblyInfo.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2.genruntimeconfig.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\ref\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Сделано\Find min func v3 (two arguments)\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Сделано\Find min func v3 (two arguments)\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\App.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Сделано\Find min func v3 (two arguments)\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Сделано\Find min func v3 (two arguments)\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Сделано\Find min func v3 (two arguments)\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Сделано\Find min func v3 (two arguments)\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Сделано\Find min func v3 (two arguments)\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\refint\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК ЭКСТРЕМУМА ФУНКЦИИ\Сделано\Find min func v3 (two arguments)\Find min func v3 (many argum) - WPF\Chart2D\obj\Debug\net8.0-windows\PSO2.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\bin\Debug\net8.0-windows\PSO2.exe
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\bin\Debug\net8.0-windows\PSO2.deps.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\bin\Debug\net8.0-windows\PSO2.runtimeconfig.json
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\bin\Debug\net8.0-windows\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\bin\Debug\net8.0-windows\PSO2.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\App.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\PSO2_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\MainWindow.baml
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\PSO2.g.resources
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\PSO2.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\PSO2.AssemblyInfoInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\PSO2.AssemblyInfo.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\PSO2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\refint\PSO2.dll
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\PSO2.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\PSO2.genruntimeconfig.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Программы всякие\_ПОИСК MIN_MAX\Сделано\Find min v3 (two arguments)\Find min v3 (two arguments)\Chart2D\obj\Debug\net8.0-windows\ref\PSO2.dll

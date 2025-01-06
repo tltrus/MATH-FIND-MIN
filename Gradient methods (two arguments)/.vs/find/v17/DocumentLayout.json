@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YandexDisk\\YandexDisk\\rexerv\\\u0412\u0440\u0435\u043C\u0435\u043D\u043D\u043E\\C#\\_\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\_\u041F\u041E\u0418\u0421\u041A MIN_MAX\\\u0421\u0434\u0435\u043B\u0430\u043D\u043E\\Find min v3 (two arguments)\\Find min v3 (two arguments)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D4965-BA9F-4C55-B4C8-E2A42D9CF63C}|Chart2D\\PSO2.csproj|d:\\yandexdisk\\yandexdisk\\rexerv\\\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\\c#\\_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\_\u043F\u043E\u0438\u0441\u043A min_max\\\u0441\u0434\u0435\u043B\u0430\u043D\u043E\\find min v3 (two arguments)\\find min v3 (two arguments)\\chart2d\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D4965-BA9F-4C55-B4C8-E2A42D9CF63C}|Chart2D\\PSO2.csproj|solutionrelative:chart2d\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D4965-BA9F-4C55-B4C8-E2A42D9CF63C}|Chart2D\\PSO2.csproj|d:\\yandexdisk\\yandexdisk\\rexerv\\\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\\c#\\_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\_\u043F\u043E\u0438\u0441\u043A min_max\\\u0441\u0434\u0435\u043B\u0430\u043D\u043E\\find min v3 (two arguments)\\find min v3 (two arguments)\\chart2d\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC1D4965-BA9F-4C55-B4C8-E2A42D9CF63C}|Chart2D\\PSO2.csproj|solutionrelative:chart2d\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D4965-BA9F-4C55-B4C8-E2A42D9CF63C}|Chart2D\\PSO2.csproj|d:\\yandexdisk\\yandexdisk\\rexerv\\\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\\c#\\_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\_\u043F\u043E\u0438\u0441\u043A min_max\\\u0441\u0434\u0435\u043B\u0430\u043D\u043E\\find min v3 (two arguments)\\find min v3 (two arguments)\\chart2d\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D4965-BA9F-4C55-B4C8-E2A42D9CF63C}|Chart2D\\PSO2.csproj|solutionrelative:chart2d\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "D:\\YandexDisk\\YandexDisk\\rexerv\\\u0412\u0440\u0435\u043C\u0435\u043D\u043D\u043E\\C#\\_\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\_\u041F\u041E\u0418\u0421\u041A MIN_MAX\\\u0421\u0434\u0435\u043B\u0430\u043D\u043E\\Find min v3 (two arguments)\\Find min v3 (two arguments)\\Chart2D\\Tools.cs",
+              "RelativeDocumentMoniker": "Chart2D\\Tools.cs",
+              "ToolTip": "D:\\YandexDisk\\YandexDisk\\rexerv\\\u0412\u0440\u0435\u043C\u0435\u043D\u043D\u043E\\C#\\_\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\_\u041F\u041E\u0418\u0421\u041A MIN_MAX\\\u0421\u0434\u0435\u043B\u0430\u043D\u043E\\Find min v3 (two arguments)\\Find min v3 (two arguments)\\Chart2D\\Tools.cs",
+              "RelativeToolTip": "Chart2D\\Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:07:39.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\YandexDisk\\YandexDisk\\rexerv\\\u0412\u0440\u0435\u043C\u0435\u043D\u043D\u043E\\C#\\_\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\_\u041F\u041E\u0418\u0421\u041A MIN_MAX\\\u0421\u0434\u0435\u043B\u0430\u043D\u043E\\Find min v3 (two arguments)\\Find min v3 (two arguments)\\Chart2D\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Chart2D\\MainWindow.xaml",
+              "ToolTip": "D:\\YandexDisk\\YandexDisk\\rexerv\\\u0412\u0440\u0435\u043C\u0435\u043D\u043D\u043E\\C#\\_\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\_\u041F\u041E\u0418\u0421\u041A MIN_MAX\\\u0421\u0434\u0435\u043B\u0430\u043D\u043E\\Find min v3 (two arguments)\\Find min v3 (two arguments)\\Chart2D\\MainWindow.xaml",
+              "RelativeToolTip": "Chart2D\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-06T14:53:29.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\YandexDisk\\YandexDisk\\rexerv\\\u0412\u0440\u0435\u043C\u0435\u043D\u043D\u043E\\C#\\_\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\_\u041F\u041E\u0418\u0421\u041A MIN_MAX\\\u0421\u0434\u0435\u043B\u0430\u043D\u043E\\Find min v3 (two arguments)\\Find min v3 (two arguments)\\Chart2D\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chart2D\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\YandexDisk\\YandexDisk\\rexerv\\\u0412\u0440\u0435\u043C\u0435\u043D\u043D\u043E\\C#\\_\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\_\u041F\u041E\u0418\u0421\u041A MIN_MAX\\\u0421\u0434\u0435\u043B\u0430\u043D\u043E\\Find min v3 (two arguments)\\Find min v3 (two arguments)\\Chart2D\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Chart2D\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwE8AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:49:55.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
