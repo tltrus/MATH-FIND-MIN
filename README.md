@@ -10,6 +10,19 @@ Find local minimum by derivative calculation
 ![image](https://github.com/tltrus/MATH/assets/77125487/8fb1ac33-c5a3-43c3-b543-35d50610a803)
 
 
+# Gradient methods (two arguments)
+
+C# 4 algorithms:
+- COORDINATE-BY-COORDINATE DESCENT METHOD
+- CONSTANT STEP GRADIENT DESCENT METHOD
+- GRADIENT DESCENT METHOD WITH STEP SPLITTING
+- THE STEEPEST DESCENT METHOD
+
+Youtube: 
+
+![image](https://github.com/user-attachments/assets/5e177ece-fce4-46e9-b3a2-fc9de552e395)
+
+
 # SimpleMethods (one argument)
 
 Find local minimum by 2 methods:
