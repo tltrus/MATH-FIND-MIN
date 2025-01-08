@@ -7,7 +7,8 @@ Find global minimum by **Bacterial Foraging Optimization** from Test Run (Micros
 
 - Based on article "Bacterial Foraging Optimization" of microsoft MSDN Magazine
 - ScottPlot is using: https://scottplot.net/cookbook/5.0/
-- Youtube:
+- Youtube: https://youtu.be/NvsABAbVwsg
+- Rutube: https://rutube.ru/video/07ce611418ac96eb465acd81e1107f40/
 
 ![image](https://github.com/user-attachments/assets/73c9fd27-12cf-4753-8cc7-e2e939c72725)
 
