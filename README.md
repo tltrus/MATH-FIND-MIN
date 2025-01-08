@@ -10,7 +10,7 @@ Find global minimum by **Bacterial Foraging Optimization** from Test Run (Micros
 - Youtube: https://youtu.be/NvsABAbVwsg
 - Rutube: https://rutube.ru/video/07ce611418ac96eb465acd81e1107f40/
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6f055a95-d7df-4914-bf46-888756c2099a)
 
 
 # Derivative (one argument)
