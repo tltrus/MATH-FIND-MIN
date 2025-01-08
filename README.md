@@ -3,7 +3,7 @@
 
 # BFO (two arguments)
 
-Find global minimum by Bacterial Foraging Optimization from Test Run (Microsoft).
+Find global minimum by **Bacterial Foraging Optimization** from Test Run (Microsoft).
 
 - Based on article "Bacterial Foraging Optimization" of microsoft MSDN Magazine
 - ScottPlot is using: https://scottplot.net/cookbook/5.0/
