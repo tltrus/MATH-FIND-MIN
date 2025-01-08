@@ -9,18 +9,26 @@
         Title="Bacterial Foraging Optimization (BFO) from Test Run" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="48"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
         <WrapPanel Grid.Row="0">
             <Button Name="btnStart" Content="START" Height="30" Width="100" Margin="10,5,5,5" VerticalAlignment="Top" HorizontalAlignment="Left" Click="btnStart_Click"/>
             <Button Name="btnClear" Content="CLEAR" Height="30" Width="100" Margin="5" VerticalAlignment="Top" HorizontalAlignment="Left" Click="btnClear_Click"/>
-            <Label Content="Ned / Eliminate-disperse:" VerticalAlignment="Center" />
-            <Label x:Name="lbNed" Content="00" VerticalAlignment="Center" Width="40" />
-            <Label Content="Nre / Reproduce-eliminate:" VerticalAlignment="Center" />
-            <Label x:Name="lbNre" Content="00" VerticalAlignment="Center" Width="40" />
-            <Label Content="Nc / Chemotactic:" VerticalAlignment="Center" />
-            <Label x:Name="lbNc" Content="00" VerticalAlignment="Center" Width="40" />
+            <StackPanel VerticalAlignment="Center" Margin="5">
+                <WrapPanel>
+                    <Label Content="Ned / Eliminate-disperse:" VerticalAlignment="Center" />
+                    <Label x:Name="lbNed" Content="00" VerticalAlignment="Center" Width="40" />
+                    <Label Content="Nre / Reproduce-eliminate:" VerticalAlignment="Center" />
+                    <Label x:Name="lbNre" Content="00" VerticalAlignment="Center" Width="40" />
+                    <Label Content="Nc / Chemotactic:" VerticalAlignment="Center" />
+                    <Label x:Name="lbNc" Content="00" VerticalAlignment="Center" Width="40" />
+                </WrapPanel>
+                <WrapPanel>
+                    <Label Content="Rastrigin function / Global minimum is at x = 0, where f(x) = 0" FontWeight="Bold" />
+                </WrapPanel>
+            </StackPanel>
+
         </WrapPanel>
         
         <ScottPlot:WpfPlot Grid.Row="1" x:Name="WpfPlot1"/>

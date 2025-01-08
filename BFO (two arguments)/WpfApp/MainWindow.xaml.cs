@@ -54,6 +54,21 @@ namespace WpfApp
             ScottPlot.AxisRules.SquareZoomOut squareRule = new(WpfPlot1.Plot.Axes.Bottom, WpfPlot1.Plot.Axes.Left);
             WpfPlot1.Plot.Axes.Rules.Add(squareRule);
 
+            // legends
+            LegendItem legendBacteria = new LegendItem()
+            {
+                LabelText = "Bacteria",
+                FillColor = Colors.Blue,
+            };
+            LegendItem legendBest = new LegendItem()
+            {
+                LabelText = "Best solution",
+                FillColor = Colors.Red,
+            };
+            var legends = new List<LegendItem>() { legendBacteria, legendBest };
+
+            WpfPlot1.Plot.ShowLegend(legends);
+
             WpfPlot1.Refresh();
         }
 
@@ -82,7 +97,6 @@ namespace WpfApp
 
             c.FillStyle.Color = Colors.Red;
             c.LineWidth = 0;
-
 
             WpfPlot1.Refresh();
         }
