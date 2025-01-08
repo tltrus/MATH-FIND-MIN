@@ -1,6 +1,17 @@
 # MATH-FIND-MIN
  C# search for the extremum of the function
 
+# BFO (two arguments)
+
+Find global minimum by Bacterial Foraging Optimization from Test Run (Microsoft).
+
+- Based on article "Bacterial Foraging Optimization" of microsoft MSDN Magazine
+- ScottPlot is using: https://scottplot.net/cookbook/5.0/
+- Youtube:
+
+![image](https://github.com/user-attachments/assets/73c9fd27-12cf-4753-8cc7-e2e939c72725)
+
+
 # Derivative (one argument)
 
 Find local minimum by derivative calculation
