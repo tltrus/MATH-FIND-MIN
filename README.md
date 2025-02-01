@@ -22,6 +22,16 @@ Find local minimum by derivative calculation
 ![image](https://github.com/tltrus/MATH/assets/77125487/8fb1ac33-c5a3-43c3-b543-35d50610a803)
 
 
+# EvolutionaryOptimization (two arguments)
+
+Find local minimum by **Evolutionary optimization** algorithm.
+
+- Youtube:
+- Rutube:
+
+![image](https://github.com/user-attachments/assets/728fe31c-282e-4f99-a49d-aaf43aca7548)
+
+
 # Gradient methods (two arguments)
 
 C# 4 algorithms:
