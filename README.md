@@ -27,7 +27,7 @@ Find local minimum by derivative calculation
 Find local minimum by **Evolutionary optimization** algorithm.
 
 - Youtube:
-- Rutube:
+- Rutube: https://rutube.ru/video/5480c942d5dcca9c314750c942414e84/
 
 ![image](https://github.com/user-attachments/assets/728fe31c-282e-4f99-a49d-aaf43aca7548)
 
