@@ -6,7 +6,7 @@
 Find global minimum by **Amoeba Method Optimization** from Test Run (Microsoft).
 
 - Based on article "Amoeba Method Optimization" of microsoft MSDN Magazine
-- Youtube:
+- Youtube: https://youtu.be/c1xMiTrxbFA
 - Rutube:
 
 ![image](https://github.com/user-attachments/assets/94ec357e-9f8a-4bb8-b78b-8dc16da92fa8)
