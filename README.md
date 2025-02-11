@@ -1,6 +1,17 @@
 # MATH-FIND-MIN
  C# search for the extremum of the function
 
+# AmoebaMethod (two arguments)
+
+Find global minimum by **Amoeba Method Optimization** from Test Run (Microsoft).
+
+- Based on article "Amoeba Method Optimization" of microsoft MSDN Magazine
+- Youtube:
+- Rutube:
+
+![image](https://github.com/user-attachments/assets/94ec357e-9f8a-4bb8-b78b-8dc16da92fa8)
+
+
 # BFO (two arguments)
 
 Find global minimum by **Bacterial Foraging Optimization** from Test Run (Microsoft).
