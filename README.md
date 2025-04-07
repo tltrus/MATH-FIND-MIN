@@ -48,7 +48,7 @@ Find local minimum by **Evolutionary optimization** algorithm.
 Find global minimum by **Firefly Algorithm Optimization** from Test Run (Microsoft).
 
 - Based on article "Firefly algorithm optimization" of microsoft MSDN Magazine
-- Youtube: 
+- Youtube: https://youtu.be/6HBg5z9-Fxg
 - Rutube: https://rutube.ru/video/758bd22b00dd6b7673766e1c20698562/
 
 ![image](https://github.com/user-attachments/assets/48aa0ece-51d9-4833-a805-b6914bd5f11f)
