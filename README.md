@@ -43,6 +43,17 @@ Find local minimum by **Evolutionary optimization** algorithm.
 ![image](https://github.com/user-attachments/assets/728fe31c-282e-4f99-a49d-aaf43aca7548)
 
 
+# FireflyAlgorithm (two arguments)
+
+Find global minimum by **Firefly Algorithm Optimization** from Test Run (Microsoft).
+
+- Based on article "Firefly algorithm optimization" of microsoft MSDN Magazine
+- Youtube: 
+- Rutube: 
+
+![image](https://github.com/user-attachments/assets/48aa0ece-51d9-4833-a805-b6914bd5f11f)
+
+
 # Gradient methods (two arguments)
 
 C# 4 algorithms:
