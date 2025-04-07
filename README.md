@@ -49,7 +49,7 @@ Find global minimum by **Firefly Algorithm Optimization** from Test Run (Microso
 
 - Based on article "Firefly algorithm optimization" of microsoft MSDN Magazine
 - Youtube: 
-- Rutube: 
+- Rutube: https://rutube.ru/video/758bd22b00dd6b7673766e1c20698562/
 
 ![image](https://github.com/user-attachments/assets/48aa0ece-51d9-4833-a805-b6914bd5f11f)
 
